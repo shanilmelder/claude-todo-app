@@ -95,7 +95,7 @@ function App() {
       <div className="ticket">
         <header className="ticket-header">
           <p className="eyebrow">Field checklist</p>
-          <h1>Task Log</h1>
+          <h1>Task List</h1>
         </header>
 
         <AddTodoForm onAdd={handleAdd} />
